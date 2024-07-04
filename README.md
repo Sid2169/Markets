@@ -48,3 +48,4 @@ java SamplePandL 2 1 10000 100 55
 - **Java compilation** — Note any external service limits or required keys.
 - **average return** — Keep commands copy-pasteable for new contributors.
 - **minimum return** — Note any external service limits or required keys.
+- **sample program** — Keep the related setup steps aligned with the current scripts.
