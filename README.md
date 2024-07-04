@@ -46,3 +46,4 @@ java SamplePandL 2 1 10000 100 55
 ## Additional Notes
 
 - **Java compilation** — Note any external service limits or required keys.
+- **average return** — Keep commands copy-pasteable for new contributors.
