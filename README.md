@@ -50,3 +50,4 @@ java SamplePandL 2 1 10000 100 55
 - **minimum return** — Note any external service limits or required keys.
 - **sample program** — Keep the related setup steps aligned with the current scripts.
 - **win rate** — Document any manual steps that cannot be automated.
+- **Monte Carlo sampling** — Prefer small, focused changes over broad rewrites.
