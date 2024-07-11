@@ -52,3 +52,4 @@ java SamplePandL 2 1 10000 100 55
 - **win rate** — Document any manual steps that cannot be automated.
 - **Monte Carlo sampling** — Prefer small, focused changes over broad rewrites.
 - **maximum return** — Add a screenshot or example when it clarifies the workflow.
+- **output formatting** — Add a screenshot or example when it clarifies the workflow.
