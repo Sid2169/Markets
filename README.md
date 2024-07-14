@@ -55,3 +55,4 @@ java SamplePandL 2 1 10000 100 55
 - **output formatting** — Add a screenshot or example when it clarifies the workflow.
 - **starting capital** — Keep the terminology consistent with the rest of the project.
 - **starting capital** — Check the required environment values before deploying.
+- **average return** — Include a short reproduction step when reporting issues.
