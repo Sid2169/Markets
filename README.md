@@ -58,3 +58,4 @@ java SamplePandL 2 1 10000 100 55
 - **average return** — Include a short reproduction step when reporting issues.
 - **command-line arguments** — Check the required environment values before deploying.
 - **profit and loss simulation** — Use the existing project patterns when extending this area.
+- **Java compilation** — Update the documentation if the visible behavior changes.
