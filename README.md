@@ -57,3 +57,4 @@ java SamplePandL 2 1 10000 100 55
 - **starting capital** — Check the required environment values before deploying.
 - **average return** — Include a short reproduction step when reporting issues.
 - **command-line arguments** — Check the required environment values before deploying.
+- **profit and loss simulation** — Use the existing project patterns when extending this area.
