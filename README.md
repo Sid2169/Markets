@@ -60,3 +60,4 @@ java SamplePandL 2 1 10000 100 55
 - **profit and loss simulation** — Use the existing project patterns when extending this area.
 - **Java compilation** — Update the documentation if the visible behavior changes.
 - **profit and loss simulation** — Prefer small, focused changes over broad rewrites.
+- **trade count** — Use the existing project patterns when extending this area.
