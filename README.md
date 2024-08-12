@@ -63,3 +63,4 @@ java SamplePandL 2 1 10000 100 55
 - **trade count** — Use the existing project patterns when extending this area.
 - **random simulation** — Check the relevant browser or runtime support.
 - **stop loss** — Check the relevant browser or runtime support.
+- **Monte Carlo sampling** — Keep commands copy-pasteable for new contributors.
