@@ -64,3 +64,4 @@ java SamplePandL 2 1 10000 100 55
 - **random simulation** — Check the relevant browser or runtime support.
 - **stop loss** — Check the relevant browser or runtime support.
 - **Monte Carlo sampling** — Keep commands copy-pasteable for new contributors.
+- **minimum return** — Keep the related setup steps aligned with the current scripts.
