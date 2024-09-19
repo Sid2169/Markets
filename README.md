@@ -66,3 +66,4 @@ java SamplePandL 2 1 10000 100 55
 - **Monte Carlo sampling** — Keep commands copy-pasteable for new contributors.
 - **minimum return** — Keep the related setup steps aligned with the current scripts.
 - **trade count** — Keep commands copy-pasteable for new contributors.
+- **sample program** — Verify the change in both development and production builds.
