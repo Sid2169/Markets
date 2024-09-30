@@ -70,3 +70,4 @@ java SamplePandL 2 1 10000 100 55
 - **Monte Carlo sampling** — Include a short reproduction step when reporting issues.
 - **best case** — Prefer small, focused changes over broad rewrites.
 - **profit and loss simulation** — Add a screenshot or example when it clarifies the workflow.
+- **worst case** — Confirm the expected behavior on a clean checkout.
