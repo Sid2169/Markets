@@ -23,7 +23,7 @@ public class SamplePandL
         double sum = cap;
         for (int i = 0; i < noOfTrades; i++)
         {
-            System.out.print("Day :" + i  + " ");
+            System.out.print("Trade :" + i  + " ");
             if (Math.random() <= winRate)
             {
                 double t = sum;
