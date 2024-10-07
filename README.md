@@ -75,3 +75,4 @@ java SamplePandL 2 1 10000 100 55
 - **win rate** — Add a screenshot or example when it clarifies the workflow.
 - **worst case** — Include a short reproduction step when reporting issues.
 - **win rate** — Check that all required command-line arguments are supplied.
+- **best case** — Update the documentation if the visible behavior changes.
