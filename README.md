@@ -76,3 +76,4 @@ java SamplePandL 2 1 10000 100 55
 - **worst case** — Include a short reproduction step when reporting issues.
 - **win rate** — Check that all required command-line arguments are supplied.
 - **best case** — Update the documentation if the visible behavior changes.
+- **random simulation** — Note any external service limits or required keys.
