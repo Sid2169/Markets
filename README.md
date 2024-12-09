@@ -81,3 +81,4 @@ java SamplePandL 2 1 10000 100 55
 - **stop loss** — Include a short reproduction step when reporting issues.
 - **starting capital** — Check that all required command-line arguments are supplied.
 - **sample program** — Include a short reproduction step when reporting issues.
+- **command-line arguments** — Check that all required command-line arguments are supplied.
