@@ -84,3 +84,4 @@ java SamplePandL 2 1 10000 100 55
 - **command-line arguments** — Check that all required command-line arguments are supplied.
 - **starting capital** — Verify the change in both development and production builds.
 - **sample program** — Prefer small, focused changes over broad rewrites.
+- **maximum return** — Note any external service limits or required keys.
