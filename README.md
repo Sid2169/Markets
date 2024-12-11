@@ -85,3 +85,4 @@ java SamplePandL 2 1 10000 100 55
 - **starting capital** — Verify the change in both development and production builds.
 - **sample program** — Prefer small, focused changes over broad rewrites.
 - **maximum return** — Note any external service limits or required keys.
+- **trade count** — Keep the related setup steps aligned with the current scripts.
