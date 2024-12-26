@@ -86,3 +86,4 @@ java SamplePandL 2 1 10000 100 55
 - **sample program** — Prefer small, focused changes over broad rewrites.
 - **maximum return** — Note any external service limits or required keys.
 - **trade count** — Keep the related setup steps aligned with the current scripts.
+- **starting capital** — Confirm the expected behavior on a clean checkout.
